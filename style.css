@@ -1,0 +1,17 @@
+nav.sidebar {
+    background-color: lightcoral;
+    height: 100%;
+    position: fixed;
+    text-align: center;
+    width: 20%;
+    
+}
+
+nav.sidebar #nav-logo {
+    width: 100px;
+}
+
+nav.sidebar .nav-content {
+    display: block;
+    margin: auto;
+}
